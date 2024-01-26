@@ -1,0 +1,6 @@
+Individual Contribution:
+	The coding problems of number theory and slides for presentation were made by AHMAD SAJJAD (2023-CS-81).
+	The theoretical questions and coding problems of graph theory were made by ABDUL-REHAMN (2023-CS-73).
+
+PROJECT PLANNING:
+	In project planning first divided the whole project into two parts number theory and graph theory. And then we decided both will do one part each accoding to ou interest. For coding problems we choose c++ language as in 1st semester we used that c++ very much. And for games section we studied those games which we had played and knew that graph is used in this game. For further knowledge we explore the documentation of the games. 

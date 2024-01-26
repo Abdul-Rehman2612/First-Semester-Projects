@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="sticky-header">
+        <div class="header">
+            <a href="index.html">
+
+                <img src="logo-min.png" alt="" class="logo">
+            </a>
+            <div id="Searchbox-container">
+                <input type="text" name="" id="" placeholder="Search" class="search-box">
+                <button id="Search-button">Search</button>
+            </div>
+            <a href="profile.html" id="profile-pic"><img src="profilepic.png" alt="" width="50px" height="50px"></a>
+        </div>
+        <div id="Menu-container">
+            <ul>
+                <ul>
+                    <li data-section="home" onclick="selectMenuItem('home')">Home</li>
+                    <li data-section="gaming" onclick="selectMenuItem('gaming')">Gaming</li>
+                    <li data-section="music" onclick="selectMenuItem('music')">Music</li>
+                    <li data-section="sports" onclick="selectMenuItem('sports')">Sports</li>
+                    <li data-section="news" onclick="selectMenuItem('news')">News</li>
+                </ul>
+
+            </ul>
+        </div>
+    </div>
+
+    <!-- Start coding from here -->
+    <div class="sections" id="home">
+        <a class="videos" href="home1.html"><img src="home1.jpg" alt=""></a>
+        <a class="videos" href="home2.html"><img src="home2.jpg" alt=""></a>
+        <a class="videos" href="home3.html"><img src="home3.jpg" alt=""></a>
+
+        <div class="titles">
+            <div class="pic">
+                <img src="aidp.jpg" alt="">
+            </div>
+            <a href="home1.html" class="title-text">What are neural networks? | How neural networks work? | Explained in a minute</a>
+        </div>
+        <div class="titles">
+            <div class="pic">
+                <img src="blenderdp.jpeg" alt="">
+            </div>
+            <a href="home2.html" class="title-text">Learn to create a 3d model of sofa in blender in just one minute!</a>
+        </div>
+        <div class="titles">
+            <div class="pic">
+                <img src="htmldp.png" alt="">
+            </div>
+            <a href="home3.html" class="title-text">Introduction to HyperText Markup Language (HTML) in one minute!</a>
+        </div>
+    </div>
+    <div class="sections" id="gaming">
+        <a class="videos" href="gaming1.html"><img src="Gaming1.jpg" alt=""></a>
+        <a class="videos" href="gaming2.html"><img src="Gaming2.jpg" alt=""></a>
+        <a class="videos" href="gaming3.html"><img src="Gaming3.jpg" alt=""></a>
+
+        <div class="titles">
+            <div class="pic">
+                <img src="minecraftdp.jpeg" alt="">
+
+            </div>
+            <a href="gaming1.html" class="title-text">Minecraft Trails & Tales Update: Official Launch Trailer</a>
+        </div>
+        <div class="titles">
+            <div class="pic">
+                <img src="gamedp.png" alt="">
+            </div>
+            <a href="gaming2.html" class="title-text">GTA (Grand Theft Auto) 6 Official Trailer Unleashed by Rockstar Games</a>
+        </div>
+        <div class="titles">
+            <div class="pic">
+                <img src="gamedp.png" alt="">
+            </div>
+            <a href="gaming3.html" class="title-text">RDR 2 Unveiled: Explore the Wild West in the Epic Red Dead Redemption 2 Trailer!
+            </a>
+        </div>
+
+    </div>
+    <div class="sections" id="music">
+        <a class="videos" href="music1.html"><img src="music1.jpg" alt=""></a>
+        <a class="videos" href="music2.html"><img src="music2.jpg" alt=""></a>
+        <a class="videos" href="music3.html"><img src="music3.jpg" alt=""></a>
+
+        <div class="titles">
+
+            <div class="pic">
+                <img src="musicdp.jpg" alt="">
+            </div>
+            <a href="music1.html" class="title-text">Alec Benjamin - Let Me Down Slowly (Lyrics)
+            </a>
+        </div>
+        <div class="titles">
+
+            <div class="pic">
+                <img src="musicdp.jpg" alt="">
+            </div>
+            <a href="music2.html" class="title-text">Otnicka - Peaky Blinder (lyrics) | i am not outsider i'm a peaky blinder
+
+            </a>
+        </div>
+
+        <div class="titles">
+
+            <div class="pic">
+                <img src="musicdp.jpg" alt="">
+            </div>
+            <a href="music3.html" class="title-text">Džanum - Teya dora (Lyrics) | Teya dora dzanum english translation
+
+            </a>
+        </div>
+
+    </div>
+    <div class="sections" id="sports">
+        <a class="videos" href="sports1.html"><img src="sports1.jpg" alt=""></a>
+        <a class="videos" href="sports2.html"><img src="sports2.jpg" alt=""></a>
+        <a class="videos" href="sports3.html"><img src="sports3.jpg" alt=""></a>
+
+        <div class="titles">
+            <div class="pic">
+                <img src="cricketdp.png" alt="">
+            </div>
+            <a href="sports1.html" class="title-text">Babar Azam's Masterclass Century Highlights | Australia ODI Series</a>
+        </div>
+        <div class="titles">
+            <div class="pic">
+                <img src="messi.png" alt="">
+            </div>
+            <a href="sports2.html" class="title-text">Magical Messi: Stunning Goal Highlights that Define Greatness </a>
+        </div>
+        <div class="titles">
+            <div class="pic">
+                <img src="hockeydp.png" alt="">
+            </div>
+            <a href="sports3.html" class="title-text">Germany Secures Semi-Final Spot with Victory Over New Zealand in Intense Hockey
+                Clash!</a>
+        </div>
+
+    </div>
+    <div class="sections" id="news">
+        <a class="videos" href="news1.html"><img src="news1.jpg" alt=""></a>
+        <a class="videos" href="news2.html"><img src="news2.jpg" alt=""></a>
+        <a class="videos" href="news3.html"><img src="news3.jpg" alt=""></a>
+
+        <div class="titles">
+            <div class="pic"><img src="bbcdp.png" alt=""></div>
+            <a href="news1.html" class="title-text">Gansu earthquake: More than 120 killed in China's deadliest quake in years | BBC
+                News </a>
+        </div>
+        <div class="titles">
+            <div class="pic"><img src="cnndp.png" alt=""></div>
+            <a href="news2.html" class="title-text">Gaza in 2 Minutes: Unraveling the Rich History and Complex Dynamics of a Region.
+            </a>
+        </div>
+        <div class="titles">
+            <div class="pic"><img src="dawndp.png" alt=""></div>
+            <a class="title-text" href="news3.html">Pakistan-India Water Dispute: Unraveling Decades of Tension in a Brief
+                Overview.</a>
+        </div>
+
+    </div>
+
+    <div id="Footer">
+        Copyright &copy; 2023-2024 by<b>&nbsp;VideoNexus</b>. All rights reserved.
+        <div>
+            <a href="PrivacyPolicy.html">Privacy Policy</a>
+            <a href="TermsAndConditions.html">Terms and Conditions</a>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
