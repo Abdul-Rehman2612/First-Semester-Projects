@@ -1,7 +1,0 @@
-D:\Projects\Second Semester\SpaceX\SpaceX\bin\Debug\SpaceX.exe.config
-D:\Projects\Second Semester\SpaceX\SpaceX\bin\Debug\SpaceX.exe
-D:\Projects\Second Semester\SpaceX\SpaceX\bin\Debug\SpaceX.pdb
-D:\Projects\Second Semester\SpaceX\SpaceX\obj\Debug\SpaceX.csproj.AssemblyReference.cache
-D:\Projects\Second Semester\SpaceX\SpaceX\obj\Debug\SpaceX.csproj.CoreCompileInputs.cache
-D:\Projects\Second Semester\SpaceX\SpaceX\obj\Debug\SpaceX.exe
-D:\Projects\Second Semester\SpaceX\SpaceX\obj\Debug\SpaceX.pdb
