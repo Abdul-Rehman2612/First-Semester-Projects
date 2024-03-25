@@ -1,0 +1,27 @@
+D:\DB-Lab Management System\DB-Lab Management System\bin\Debug\DB-Lab Management System.exe.config
+D:\DB-Lab Management System\DB-Lab Management System\bin\Debug\DB-Lab Management System.exe
+D:\DB-Lab Management System\DB-Lab Management System\bin\Debug\DB-Lab Management System.pdb
+D:\DB-Lab Management System\DB-Lab Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\DB-Lab Management System\DB-Lab Management System\bin\Debug\Bunifu.Licensing.dll
+D:\DB-Lab Management System\DB-Lab Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\DB-Lab Management System\DB-Lab Management System\obj\Debug\DB-Lab Management System.csproj.AssemblyReference.cache
+D:\DB-Lab Management System\DB-Lab Management System\obj\Debug\DB_Lab_Management_System.AdminDashboard.resources
+D:\DB-Lab Management System\DB-Lab Management System\obj\Debug\DB_Lab_Management_System.Attendance.ClassAttendance.resources
+D:\DB-Lab Management System\DB-Lab Management System\obj\Debug\DB_Lab_Management_System.Attendance.ManageStudents.resources
+D:\DB-Lab Management System\DB-Lab Management System\obj\Debug\DB_Lab_Management_System.Attendance.StudentAttendance.resources
+D:\DB-Lab Management System\DB-Lab Management System\obj\Debug\DB_Lab_Management_System.Attendance.StudentRegistration.resources
+D:\DB-Lab Management System\DB-Lab Management System\obj\Debug\DB_Lab_Management_System.Properties.Resources.resources
+D:\DB-Lab Management System\DB-Lab Management System\obj\Debug\DB-Lab Management System.csproj.GenerateResource.cache
+D:\DB-Lab Management System\DB-Lab Management System\obj\Debug\DB-Lab Management System.exe.licenses
+D:\DB-Lab Management System\DB-Lab Management System\obj\Debug\DB-Lab Management System.csproj.CoreCompileInputs.cache
+D:\DB-Lab Management System\DB-Lab Management System\obj\Debug\DB-Lab M.905EF273.Up2Date
+D:\DB-Lab Management System\DB-Lab Management System\obj\Debug\DB-Lab Management System.exe
+D:\DB-Lab Management System\DB-Lab Management System\obj\Debug\DB-Lab Management System.pdb
+D:\DB-Lab Management System\DB-Lab Management System\obj\Debug\DB_Lab_Management_System.CLOs.ManageCLOs.resources
+D:\DB-Lab Management System\DB-Lab Management System\obj\Debug\DB_Lab_Management_System.CLOs.CLO.resources
+D:\DB-Lab Management System\DB-Lab Management System\obj\Debug\DB_Lab_Management_System.CLOs.RubricLevels.resources
+D:\DB-Lab Management System\DB-Lab Management System\obj\Debug\DB_Lab_Management_System.CLOs.Rubrics.resources
+D:\DB-Lab Management System\DB-Lab Management System\obj\Debug\DB_Lab_Management_System.Assessments.Assessment.resources
+D:\DB-Lab Management System\DB-Lab Management System\obj\Debug\DB_Lab_Management_System.Assessments.ManageAssessments.resources
+D:\DB-Lab Management System\DB-Lab Management System\obj\Debug\DB_Lab_Management_System.Assessments.Form5.resources
+D:\DB-Lab Management System\DB-Lab Management System\obj\Debug\DB_Lab_Management_System.Assessments.Results.resources

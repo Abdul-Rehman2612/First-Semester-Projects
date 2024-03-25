@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB-Lab Management System", "DB-Lab Management System\DB-Lab Management System.csproj", "{3F249A55-1F54-4181-9AFD-37143A10FCE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F249A55-1F54-4181-9AFD-37143A10FCE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F249A55-1F54-4181-9AFD-37143A10FCE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F249A55-1F54-4181-9AFD-37143A10FCE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F249A55-1F54-4181-9AFD-37143A10FCE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C3E1508-0A54-4F26-9CD7-A7FAA67BDE27}
+	EndGlobalSection
+EndGlobal
